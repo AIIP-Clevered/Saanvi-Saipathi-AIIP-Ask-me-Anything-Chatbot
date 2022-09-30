@@ -1,0 +1,2 @@
+# Saanvi-Saipathi-AIIP-Ask-me-Anything-Chatbot
+Project Description  My app is a AI chat bot that informs the user about chocolates and how to make it , which most people don’t even know that chocolates other than dark chocolate and how to make it . This project works on the basis of speech recognition . First it will introduce itself then the user will have to say chocolate, after you it will tell about the chocolate and how to make it.
